@@ -1,0 +1,45 @@
+{
+    "RiskReportSummary": {
+        "RiskReportId": "9be5cd79-a0b8-46ac-917d-e2c14b134568",
+        "ProjectId": "39de73ea-d4ee-4446-8f8a-6d4d35a521f0",
+        "ProjectName": "Project Name",
+        "ProjectCreatedOn": "2024-07-08T16:03:55.097Z",
+        "ProjectTags": null,
+        "CriticalVulnerabilityCount": 0,
+        "HighVulnerabilityCount": 0,
+        "MediumVulnerabilityCount": 0,
+        "LowVulnerabilityCount": 0,
+        "NoneVulnerabilityCount": 0,
+        "TotalPackages": 0,
+        "DirectPackages": 0,
+        "CreatedOn": "2024-07-08T16:03:56.145Z",
+        "RiskScore": 0.0,
+        "TotalOutdatedPackages": 0,
+        "VulnerablePackages": 0,
+        "CriticalVulnerablePackages": 0,
+        "HighVulnerablePackages": 0,
+        "MediumVulnerablePackages": 0,
+        "LowVulnerablePackages": 0,
+        "NoneVulnerablePackages": 0,
+        "TotalPackagesWithLegalRisk": 0,
+        "LicensesLegalRisk": {
+            "Critical": 0,
+            "High": 0,
+            "Medium": 0,
+            "Low": 0,
+            "None": 0
+        },
+        "ScanOrigin": "Zip",
+        "ScanTags": [
+            "flow",
+            "origin"
+        ],
+        "ExploitablePathEnabled": false,
+        "ExploitablePathsFound": 0,
+        "HasRemediationRecommendation": false,
+        "BuildBreakerPolicies": 0,
+        "ProjectPolicies": [],
+        "ViolatingPoliciesCount": 0
+    },
+    "Vulnerabilities": []
+}
